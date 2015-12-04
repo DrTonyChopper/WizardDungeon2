@@ -37,6 +37,7 @@
     <Compile Include="Dungeon.cs" />
     <Compile Include="Hero.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Item.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
