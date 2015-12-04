@@ -8,6 +8,7 @@ namespace WizardDungeon2
 		{
 			Console.WriteLine ("Hello World!");
 			Console.Clear ();
+			// hello
 		}
 	}
 }
